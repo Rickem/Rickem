@@ -1,4 +1,4 @@
-# Hi there, I'm Emric Gnonhoue 👋
+# Hi there, I'm Emeric Gnonhoue 👋
 
 ## 🚀 Senior React Developer | GIS & Data Visualization Specialist
 
