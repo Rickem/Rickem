@@ -13,11 +13,11 @@
 ## 💼 What I Do
 
 🎯 **6+ years** building React.js applications serving **5,000+ users**  
-📊 **Data visualization** expert with Chart.js, Plotly, and custom dashboards  
+📊 **Data visualization** expert with Chart.js, and custom dashboards  
 🗺️ **GIS integration** specialist using Google Maps API and real-time tracking  
 ⚡ **Performance optimization** - achieved 45% cost reduction in production systems  
 👥 **Team leadership** experience managing 10+ developers  
-🌍 **Canadian PR** - available for opportunities in Vancouver and across Canada
+🌍 **Canadian PR** - available for opportunities in Vancouver, Toronto and across Canada
 
 ---
 
